@@ -3,3 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+section.home {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
